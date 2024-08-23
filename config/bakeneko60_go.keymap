@@ -43,7 +43,7 @@
             bindings = <
 &kp GRAVE  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6  &kp F7  &kp F8  &kp F9  &kp F10   &kp F11    &kp F12  &trans  &kp DEL
 &trans     &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans    &kp UP     &trans           &trans
-&trans     &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LEFT  &kp RIGHT                   &bootloader
+&trans     &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LEFT  &kp RIGHT                   &kp KP_ENTER
 &trans             &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans    &kp DOWN   &trans           &trans
 &trans     &trans          &trans                  &trans                          &trans    &trans     &mo 2            &trans
             >;
